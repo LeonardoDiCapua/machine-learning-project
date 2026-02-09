@@ -26,17 +26,6 @@ I dati utilizzati provengono dai Reels pubblicati dall’account ufficiale di **
 
 ---
 
-## 📂 Struttura della repository
-
-├── Progetto Machine Learning.ipynb # Notebook completo con codice e analisi
-├── data/
-│ └── Dataset_Instagram.xlsx # Dataset utilizzato (400+ Reels)
-├── report/
-│ └── Relazione Machine Learning.pdf # Relazione finale del progetto
-
-
----
-
 ## 📊 Dataset
 
 Il dataset contiene informazioni su oltre **400 Reels** e include variabili come:
